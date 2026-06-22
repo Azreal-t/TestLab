@@ -102,7 +102,7 @@ Cada arquivo tem **uma única razão para mudar**:
 ```bash
 # 1. Clone o repositório
 git clone <url-do-repo>
-cd calm-hawking   # pasta do projeto
+cd testlab   # pasta do projeto
 
 # 2. Instale as dependências
 flutter pub get
