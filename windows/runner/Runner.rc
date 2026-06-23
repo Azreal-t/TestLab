@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.testlab" "\0"
-            VALUE "FileDescription", "calm_hawking" "\0"
+            VALUE "FileDescription", "TestLab" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "calm_hawking" "\0"
+            VALUE "InternalName", "testlab" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.testlab. All rights reserved." "\0"
-            VALUE "OriginalFilename", "calm_hawking.exe" "\0"
-            VALUE "ProductName", "calm_hawking" "\0"
+            VALUE "OriginalFilename", "testlab.exe" "\0"
+            VALUE "ProductName", "TestLab" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

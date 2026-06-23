@@ -1,4 +1,4 @@
-package com.testlab.calm_hawking
+package com.testlab.testlab
 
 import io.flutter.embedding.android.FlutterActivity
 
